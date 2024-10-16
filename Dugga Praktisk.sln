@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dugga Praktisk", "Dugga Praktisk\Dugga Praktisk.csproj", "{31D7C382-32DE-4E6B-AB63-624964A7732F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1", "1", "{AD4D26C9-C2F0-4E6F-A0AD-235128CD2BCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "Method\Method.csproj", "{D4A9BECD-E132-4299-B08C-3C5D7F7EE12E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2", "2", "{3F4A35CD-CAD9-489D-9A8D-CA949309F2AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mata", "Mata\Mata.csproj", "{499A86F2-CCDC-4834-A6B1-A405B0D4BDF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3ab", "3ab", "{CF7F1F7D-C78A-482F-8BDA-3094F7B8D422}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4a", "4a", "{EB5634DF-D675-4321-B1C1-FFC1365095CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "book", "book\book.csproj", "{4EFBBB7D-5E3B-42A5-8692-3719C1300A92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D7C382-32DE-4E6B-AB63-624964A7732F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D7C382-32DE-4E6B-AB63-624964A7732F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D7C382-32DE-4E6B-AB63-624964A7732F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D7C382-32DE-4E6B-AB63-624964A7732F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A9BECD-E132-4299-B08C-3C5D7F7EE12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A9BECD-E132-4299-B08C-3C5D7F7EE12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A9BECD-E132-4299-B08C-3C5D7F7EE12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A9BECD-E132-4299-B08C-3C5D7F7EE12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{499A86F2-CCDC-4834-A6B1-A405B0D4BDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499A86F2-CCDC-4834-A6B1-A405B0D4BDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499A86F2-CCDC-4834-A6B1-A405B0D4BDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499A86F2-CCDC-4834-A6B1-A405B0D4BDF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EFBBB7D-5E3B-42A5-8692-3719C1300A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFBBB7D-5E3B-42A5-8692-3719C1300A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFBBB7D-5E3B-42A5-8692-3719C1300A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFBBB7D-5E3B-42A5-8692-3719C1300A92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{31D7C382-32DE-4E6B-AB63-624964A7732F} = {CF7F1F7D-C78A-482F-8BDA-3094F7B8D422}
+		{D4A9BECD-E132-4299-B08C-3C5D7F7EE12E} = {AD4D26C9-C2F0-4E6F-A0AD-235128CD2BCA}
+		{499A86F2-CCDC-4834-A6B1-A405B0D4BDF0} = {3F4A35CD-CAD9-489D-9A8D-CA949309F2AF}
+		{4EFBBB7D-5E3B-42A5-8692-3719C1300A92} = {EB5634DF-D675-4321-B1C1-FFC1365095CE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D57C3EB-41D7-4E82-AAE2-9C2CAD55704D}
+	EndGlobalSection
+EndGlobal
